@@ -1,0 +1,90 @@
+ header {
+    background-color: lightgray;
+    padding: 20px 20px;
+	column-count: 2;
+	margin:0;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+
+.headNote{
+	position: relative;
+	top: 30px;
+	left: 350px;
+
+
+}
+
+.headPic{
+	position: static;
+	top: 10px;
+	left: 1000px;
+	float: right;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 8px;
+
+}
+
+.samsungPic {
+
+    text-align: center;
+	display: block;
+	margin-left: auto;    
+	margin-right: auto;
+	font-weight: bold;
+	font-size: 25px;
+}
+    ul {
+       list-style-type: none;
+       margin: 0; /*sets all the margin properties*/
+       padding: 0; /*used to generate space around content*/
+       overflow: hidden; /*whether to clip content or to add scrollbars */
+       background-color: #cc4343;
+       width: 100%;
+     }
+    
+     li {
+       float: right;
+       font-weight: bold;
+       font-size: 20px;
+       
+     }
+li a {
+    display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+.row {
+	text-align: center;
+	column-count: 2;
+	margin: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 78%; 
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 5px;
+}
+
+
+#footer{
+	text-align: center;
+	background-color: lightgray;
+	padding: 20px 20px;
+
+}
+
+
+    
